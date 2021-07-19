@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Example blog",
+      "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent id justo in neque elementum ultrices. Aliquam ante. Integer tempor. Maecenas ipsum velit, consectetuer eu lobortis ut, dictum at dui. Sed convallis magna eu sem. Duis pulvinar. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Nullam sit amet magna in magna gravida vehicula. Morbi leo mi, nonummy eget tristique non, rhoncus non leo.\n\nFusce tellus. Duis risus. Pellentesque ipsum. Integer tempor. Integer rutrum, orci vestibulum ullamcorper ultricies, lacus quam ultricies odio, vitae placerat pede sem sit amet enim. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Etiam egestas wisi a erat. Mauris suscipit, ligula sit amet pharetra semper, nibh ante cursus purus, vel sagittis velit mauris vel metus. In convallis. Nulla est. Etiam egestas wisi a erat. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.\n\nMauris metus. Fusce aliquam vestibulum ipsum. Aliquam erat volutpat. Phasellus rhoncus. Ut tempus purus at lorem. Vestibulum fermentum tortor id mi. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Nunc auctor. Mauris elementum mauris vitae tortor. Aenean id metus id velit ullamcorper pulvinar. Nunc dapibus tortor vel mi dapibus sollicitudin. Nullam at arcu a est sollicitudin euismod. Integer imperdiet lectus quis justo. Pellentesque ipsum. Maecenas fermentum, sem in pharetra pellentesque, velit turpis volutpat ante, in pharetra metus odio a lectus. Morbi imperdiet, mauris ac auctor dictum, nisl ligula egestas nulla, et sollicitudin sem purus in lacus.",
+      "author": "Tom",
+      "id": 1
+    },
+    {
+      "title": "React Application",
+      "body": "Application inspired by The Net Ninja",
+      "author": "Tom",
+      "id": 2
+    }
+  ]
+}
